@@ -1,6 +1,6 @@
 
 <!--
-**IsmailAAmassi/ismailaamassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muhamedkhudari/muhamedkhudari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ismailaamassi.ismailaamassi)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=muhamedkhudari.muhamedkhudari)
 
-![ismailaamassi's github stats](https://github-readme-stats.vercel.app/api?username=ismailaamassi)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailaamassi&" alt="ismailaamassi" /></p>
+![muhamedkhudari's github stats](https://github-readme-stats.vercel.app/api?username=muhamedkhudari)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedkhudari&" alt="muhamedkhudari" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.facebook.com/ismailaamassi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ismailaamassi/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/muhamedkhudari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhamedkhudari/" height="30" width="40" /></a>
 
 <p>
-<a href="https://github.com/ismailaamassi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailaamassi&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/muhamedkhudari">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedkhudari&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ismailaamassi&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img src="https://activity-graph.herokuapp.com/graph?username=muhamedkhudari&theme=dracula&color=B994E6&bg_color=2B2D3D" />
